@@ -4,9 +4,5 @@
  */
 package Animales;
 
-/**
- *
- * @author jccas
- */
 public abstract class Felino extends Animal {
 }

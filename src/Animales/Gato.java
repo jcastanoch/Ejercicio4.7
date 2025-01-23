@@ -4,10 +4,6 @@
  */
 package Animales;
 
-/**
- *
- * @author jccas
- */
 public class Gato extends Felino {
     public String getSonido(){
         return "Maullido";
